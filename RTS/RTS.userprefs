@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\2 Scripts\CameraMarquee.cs">
+    <Files>
+      <File FileName="Assets\2 Scripts\GameController.cs" Line="31" Column="95" />
+      <File FileName="Assets\2 Scripts\CameraMarquee.cs" Line="30" Column="3" />
+      <File FileName="Assets\2 Scripts\RTSObject.cs" Line="9" Column="41" />
+      <File FileName="Assets\2 Scripts\Unit.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
